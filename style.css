@@ -53,6 +53,10 @@ body, html{
     padding: 3em 0 2em;
     height: 38vh;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .sec1-text, 
